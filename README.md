@@ -14,6 +14,11 @@ Then run This command
 npm run serve
 ```  
 now open your browser and go the port assigned for the project.  
+
+for checking out the tests run
+```
+npm run test:unit
+```  
   
 * Want a demo?  
 Demo link : https://celadon-custard-dd627a.netlify.app/
